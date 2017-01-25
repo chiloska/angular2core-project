@@ -1,0 +1,10 @@
+.footer{
+    padding-top : 25px;
+    background-color: #222;
+    color: white;
+}
+
+footer div p img{
+    height: 30px;
+    width: 30px;
+}
